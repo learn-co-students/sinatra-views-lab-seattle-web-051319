@@ -21,7 +21,7 @@ Run `shotgun` to start a local server so that you can test your app in your
 browser. Once your application is running, assuming port 9393, the shotgun
 default, you should be able to hit the following local urls:
 http://localhost:9393/hello, http://localhost:9393/goodbye, and
-http://localhost:9393/date.
+http://localhost:9393/deate.
 
 You can run `learn` to get the tests passing and see errors.
 
